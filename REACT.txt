@@ -1,0 +1,12 @@
+learn React From =>  https://daveceddia.com/   
+
+
+
+npx create-react-app hello
+
+npx => Execute => install + Execute .No RE-installation !Once its installed
+
+
+
+
+npm start

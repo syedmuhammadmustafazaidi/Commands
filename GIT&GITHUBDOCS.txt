@@ -1,0 +1,12 @@
+FOR EMAIL LINKED ON COMPUTER FOR GIT REPO :  git config --global user.email "zsyedmuhammadmustafa@gmail.com"
+
+
+
+GIT HUB PR REPO BANAO (EMPTY) 
+PHIR YE COMMAND LINK KR DAINGI VS CODE KO GITHUB KI REPO SAY 
+COMMIT KRO OR MOJ KRO PASHA .....
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/syedmuhammadmustafazaidi/      APNILINKOFREPOSITORY     .git
+git branch -M main
+git push -u origin main

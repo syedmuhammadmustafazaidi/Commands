@@ -1,0 +1,13 @@
+https://mycv-51233.web.app/
+
+
+npm run build
+
+firebase init
+
+
+
+public derectory should be " build"  not public
+
+
+firebase deploy

@@ -1,0 +1,42 @@
+1)
+
+
+https://lovely-cuff-links-mite.cyclic.app
+
+
+https://drab-gold-cocoon-shoe.cyclic.app/
+
+
+//https://chattur.cyclic.cloud
+
+
+
+
+
+EXPRESS COMMANDS LINE BY LINE:
+
+cd myapp
+npm init
+entry point: (index.js)
+npm install express    (For package.json)
+node server.js
+npm start
+
+Hello world
+nodemon server.js
+npm run dev
+
+
+DEPLOY ON CYCLIC:
+
+WEATHER APP EXRTRACT
+
+
+npm install cors 
+
+make it static EXPRESS
+and remove first app.get
+
+express k static ko pehlay / k saath likhtay baad main hata dai
+
+

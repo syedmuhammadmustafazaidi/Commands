@@ -1,0 +1,51 @@
+    text-indent: 20px;
+
+    target="_blank"
+
+    if you set paragraph [attribute ] "title = 'Hi' " on hover it will show Hi
+
+    
+
+
+=>	 Remove underlines for visited and unvisited links, and specify “underline” for the hover and active link states.
+ 
+=>    <style>
+      /* unvisited link */
+a:link {
+text-decoration: none;
+
+}
+
+/* visited link */
+a:visited {
+text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+text-decoration: underline;
+
+}
+
+/* selected link */
+a:active {
+text-decoration: underline;
+
+}
+</style>
+ 
+
+ 
+<p><a href="https://interns.pk">interns.pk</a></p>
+
+  
+
+		list-style-type:none => For removing bullets and numbers on list item
+
+
+
+
+
+For Scroll =>  overflow: scroll;
+
+For low Visibility => opacity:0.4
